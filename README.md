@@ -35,6 +35,8 @@ To test the app offline, go to the far right of the URL bar and click the comput
 None at this time.
 # Contact
 [My Github](https://github.com/mevaldovi)
+
+
 Shoot me an email:[mevaldovi@gmail.com](mailto:mevaldovi@gmail.com)
 # Agknowledgments
 A special thanks to my tutor Andrew Hardemon for pointing me in the right direction to complete this assignment.
