@@ -1,7 +1,7 @@
 # Homework15_OfflineBudgetTracker
 
 ## Description
-Creates a fitness tracker that allows a user to view, track , and create daily workouts. A training athlete, whether in professional or personal pursuit, can better achieve daily and weekly fitness goals if they can also track their workouts. The user can either create new workouts or continue with their last workout.
+Create a budget tracker PWA that works offline when there is little to no service at user's current location.
 
 ## Technology 
 HTML, CSS, JavaScript, Git, MongoDB, Atlas, & Heroku.
@@ -26,14 +26,16 @@ HTML, CSS, JavaScript, Git, MongoDB, Atlas, & Heroku.
 [Agnowledgments](https://github.com/mevaldovi/Homework15_OfflineBudgetTracker#Agknowledgments)
 
 # Installation
-[Heroku](link to deployed fitness tracker goes here). 
+[Heroku](https://offline-budget-tracker-mv.herokuapp.com/). 
 If the link does not work, you can just clone down this repo, install the node packages using the command "npm i" in your terminal, and then after installation type "node server.js/npm start" in the same terminal.
 # Usage
-Simply open the application, click "New Workout" and have fun with it!
+Simply open the application, go to "Name of Transaction" and type what you would like to label your transaction and enter an amount, then "Add Transaction". 
+To test the app offline, go to the far right of the URL bar and click the computer screen down-arrow icon to install the application to your device and repeat the previous steps. Have fun and don't be afraid to shoot an email if you have any questions.
 # License
 None at this time.
 # Contact
+[My Github](https://github.com/mevaldovi)
 Shoot me an email:[mevaldovi@gmail.com](mailto:mevaldovi@gmail.com)
 # Agknowledgments
-A special thanks to my classmates Jessamyn McTwigan and Christyn Garcia for letting me reference their code.
+A special thanks to my tutor Andrew Hardemon for pointing me in the right direction to complete this assignment.
 "Last, but not least, I would like to thank me. I want to thank me for believing in me, I want to thank me for doing all this hard work. I wanna thank me for having no days off. I wanna thank me for never quitting. I wanna thank me for always been a giver and trying to give more than I receive. I want to thank me for trying to do more right than wrong. I want to thank me for just being me at all times.” --Snoop Dog
