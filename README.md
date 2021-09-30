@@ -1,4 +1,6 @@
 # Homework15_OfflineBudgetTracker
+<img width="557" alt="offline-Budget-tracker" src="https://user-images.githubusercontent.com/83307023/135520086-ff54de2c-acdc-4f90-b873-cbdfecdb8545.PNG">
+
 
 ## Description
 Create a budget tracker PWA that works offline when there is little to no service at user's current location.
@@ -26,7 +28,7 @@ HTML, CSS, JavaScript, Git, MongoDB, Atlas, & Heroku.
 [Agnowledgments](https://github.com/mevaldovi/Homework15_OfflineBudgetTracker#Agknowledgments)
 
 # Installation
-[Heroku](https://offline-budget-tracker-mv.herokuapp.com/). 
+[Deployed app](https://offline-budget-tracker-mv.herokuapp.com/). 
 If the link does not work, you can just clone down this repo, install the node packages using the command "npm i" in your terminal, and then after installation type "node server.js/npm start" in the same terminal.
 # Usage
 Simply open the application, go to "Name of Transaction" and type what you would like to label your transaction and enter an amount, then "Add Transaction". 
