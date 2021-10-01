@@ -3,6 +3,8 @@
 
 
 ## Description
+[Deployed App](https://offline-budget-tracker-2.herokuapp.com/) 
+
 Create a budget tracker PWA that works offline when there is little to no service at user's current location.
 
 ## Technology 
@@ -28,7 +30,6 @@ HTML, CSS, JavaScript, Git, MongoDB, Atlas, & Heroku.
 [Agnowledgments](https://github.com/mevaldovi/Offline-Budget-Tracker#Agknowledgments)
 
 # Installation
-[Deployed App](https://offline-budget-tracker-2.herokuapp.com/). 
 
 If the link does not work, you can just clone down this repo, install the node packages using the command "npm i" in your terminal, and then after installation type "node server.js/npm start" in the same terminal.
 # Usage
