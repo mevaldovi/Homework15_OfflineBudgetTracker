@@ -1,4 +1,4 @@
-# Homework15_OfflineBudgetTracker
+# Offline-Budget-Tracker
 <img width="557" alt="offline-Budget-tracker" src="https://user-images.githubusercontent.com/83307023/135520086-ff54de2c-acdc-4f90-b873-cbdfecdb8545.PNG">
 
 
@@ -9,26 +9,26 @@ Create a budget tracker PWA that works offline when there is little to no servic
 HTML, CSS, JavaScript, Git, MongoDB, Atlas, & Heroku.
 
 # Table of Contents
-[Description](https://github.com/mevaldovi/Homework15_OfflineBudgetTracker#Description)
+[Description](https://github.com/mevaldovi/Offline-Budget-Tracker#Description)
 
-[Technology](https://github.com/mevaldovi/Homework15_OfflineBudgetTracker#Technology)
+[Technology](https://github.com/mevaldovi/Offline-Budget-Tracker#Technology)
 
-[Installation](https://github.com/mevaldovi/Homework15_OfflineBudgetTracker#Installation)
-
-
-[Usage](https://github.com/mevaldovi/Homework15_OfflineBudgetTracker#Usage)
+[Installation](https://github.com/mevaldovi/Offline-Budget-Tracker#Installation)
 
 
-[License](https://github.com/mevaldovi/Homework15_OfflineBudgetTracker#License)
+[Usage](https://github.com/mevaldovi/Offline-Budget-Tracker#Usage)
 
 
-[Contact Info](https://github.com/mevaldovi/Homework15_OfflineBudgetTracker#Contact)
+[License](https://github.com/mevaldovi/Offline-Budget-Tracker#License)
 
 
-[Agnowledgments](https://github.com/mevaldovi/Homework15_OfflineBudgetTracker#Agknowledgments)
+[Contact Info](https://github.com/mevaldovi/Offline-Budget-Tracker#Contact)
+
+
+[Agnowledgments](https://github.com/mevaldovi/Offline-Budget-Tracker#Agknowledgments)
 
 # Installation
-[Deployed app](https://offline-budget-tracker-mv.herokuapp.com/). 
+[Deployed app](). 
 If the link does not work, you can just clone down this repo, install the node packages using the command "npm i" in your terminal, and then after installation type "node server.js/npm start" in the same terminal.
 # Usage
 Simply open the application, go to "Name of Transaction" and type what you would like to label your transaction and enter an amount, then "Add Transaction". 
