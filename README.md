@@ -1,9 +1,10 @@
 # Offline-Budget-Tracker
+[Deployed App](https://offline-budget-tracker-2.herokuapp.com/)
+
 <img width="557" alt="offline-Budget-tracker" src="https://user-images.githubusercontent.com/83307023/135520086-ff54de2c-acdc-4f90-b873-cbdfecdb8545.PNG">
 
 
-## Description
-[Deployed App](https://offline-budget-tracker-2.herokuapp.com/) 
+## Description 
 
 Create a budget tracker PWA that works offline when there is little to no service at user's current location.
 
