@@ -1,5 +1,5 @@
 # Offline-Budget-Tracker
-[Deployed App](https://offline-budget-tracker-2.herokuapp.com/)
+Deployed App: [https://offline-budget-tracker-2.herokuapp.com](https://offline-budget-tracker-2.herokuapp.com)
 
 <img width="557" alt="offline-Budget-tracker" src="https://user-images.githubusercontent.com/83307023/135520086-ff54de2c-acdc-4f90-b873-cbdfecdb8545.PNG">
 
@@ -31,15 +31,19 @@ HTML, CSS, JavaScript, Git, MongoDB, Atlas, & Heroku.
 [Agnowledgments](https://github.com/mevaldovi/Offline-Budget-Tracker#Agknowledgments)
 
 # Installation
+- Clone this repo
 
-If the link does not work, you can just clone down this repo, install the node packages using the command "npm i" in your terminal, and then after installation type "node server.js/npm start" in the same terminal.
+- npm install
+
+- node server.js || npm start
+
 # Usage
 Simply open the application, go to "Name of Transaction" and type what you would like to label your transaction and enter an amount, then "Add Transaction". 
 To test the app offline, go to the far right of the URL bar and click the computer screen down-arrow icon to install the application to your device and repeat the previous steps. Have fun and don't be afraid to shoot an email if you have any questions.
 # License
 None at this time.
 # Contact
-[Github](https://github.com/mevaldovi)
+Github: [https://github.com/mevaldovi](https://github.com/mevaldovi)
 
 
 Shoot me an email:[mevaldovi@gmail.com](mailto:mevaldovi@gmail.com)
