@@ -37,6 +37,8 @@ HTML, CSS, JavaScript, Git, MongoDB, Atlas, & Heroku.
 
 - node server.js || npm start
 
+- navigate to https://localhost:3000 to view in browser
+
 # Usage
 Simply open the application, go to "Name of Transaction" and type what you would like to label your transaction and enter an amount, then "Add Transaction". 
 To test the app offline, go to the far right of the URL bar and click the computer screen down-arrow icon to install the application to your device and repeat the previous steps. Have fun and don't be afraid to shoot an email if you have any questions.
