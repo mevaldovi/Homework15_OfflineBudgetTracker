@@ -31,13 +31,16 @@ HTML, CSS, JavaScript, Git, MongoDB, Atlas, & Heroku.
 [Agnowledgments](https://github.com/mevaldovi/Offline-Budget-Tracker#Agknowledgments)
 
 # Installation
-- Clone this repo
 
-- npm install
+Bold text indicates commands in the terminal; italicized text indicates steps to take
 
-- node server.js || npm start
+- _Clone this repo_
 
-- navigate to https://localhost:3000 to view in browser
+- **npm install
+
+- **node server.js || npm start
+
+- _navigate to https://localhost:3000 to view in browser_
 
 # Usage
 Simply open the application, go to "Name of Transaction" and type what you would like to label your transaction and enter an amount, then "Add Transaction". 
