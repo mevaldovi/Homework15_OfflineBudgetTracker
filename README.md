@@ -15,7 +15,6 @@ Create a budget tracker PWA that works offline when there is little to no servic
 [<img alt="medium" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />](https://www.mongodb.com/docs)
 [<img alt="medium" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />](https://devcenter.heroku.com/categories/reference)
 
-HTML, CSS, JavaScript, Git, MongoDB, Atlas, & Heroku.
 
 # Table of Contents
 [Description](https://github.com/mevaldovi/Offline-Budget-Tracker#Description)
