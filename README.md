@@ -32,13 +32,11 @@ HTML, CSS, JavaScript, Git, MongoDB, Atlas, & Heroku.
 
 # Installation
 
-Bold text indicates commands in the terminal; italicized text indicates steps to take
-
 - _Clone this repo_
 
-- **npm install
+- `npm install`
 
-- **node server.js || npm start
+- `node server.js` || `npm start`
 
 - _navigate to https://localhost:3000 to view in browser_
 
@@ -49,6 +47,8 @@ To test the app offline, go to the far right of the URL bar and click the comput
 None at this time.
 # Contact
 Github: [https://github.com/mevaldovi](https://github.com/mevaldovi)
+
+LinkedIn : [https://www.linkedin.com/in/marie-valdovinos-a616b21b1](https://www.linkedin.com/in/marie-valdovinos-a616b21b1)
 
 
 Shoot me an email:[mevaldovi@gmail.com](mailto:mevaldovi@gmail.com)
