@@ -6,7 +6,7 @@ Deployed App: [https://offline-budget-tracker-2.herokuapp.com](https://offline-b
 
 ## Description 
 
-Create a budget tracker PWA that works offline when there is little to no service at user's current location.
+Create a budget tracker PWA that works offline
 
 ## Technology
 [<img alt="medium" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
